@@ -16,6 +16,7 @@ Fork Customizations
   - I use auto generated dates, however they are only created on enter which
      required the creation of an empty todo item that was rarely needed
 - Shift enter adds data and creates a new todo item below
+- <leader>d closes a todo item
 
 
 vim-todo-lists
